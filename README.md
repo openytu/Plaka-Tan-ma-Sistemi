@@ -10,10 +10,10 @@
   
   ```
 
-## 2.Adım (Model Eğitimi)
+### 2.Adım (Model Eğitimi)
 Eğitilmiş plaka sınıflandıran bir modelin olması gerekiyor. Eğer plaka sınıflandıran bir modeliniz yoksa merak etmeyin biz sizin için ekledik :)
   
-## 3.Adım ( Gerekli kütüphaneleri yüklemek):
+### 3.Adım ( Gerekli kütüphaneleri yüklemek):
 Gerekli kütüphaneleri yüklemek için aşağıdaki kod bloğunu terminalde çalıştıralım.
   ```shell
 
