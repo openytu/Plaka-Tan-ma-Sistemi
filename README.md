@@ -20,6 +20,13 @@ Gerekli kütüphaneleri yüklemek için aşağıdaki kod bloğunu terminalde ça
   pip install -r requirements.txt
   
   ```
+### 4.Adım(Bilgisayarlı Görü Projesini Çalıştırma)
+Artık son adım olan çalıştırma kısmına geldik. İster kendi modelinizi ve resminizi isterseniz de bizim eklediğimizi kullanabilirsiniz.
+```shell
+
+  python .\yolov8_predict_img.py --model models/license_plate_detector.pt --source resimler/plate_2.jpg  
+  
+  ```
   
 
 
