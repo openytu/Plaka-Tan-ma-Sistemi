@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+imutils
+numpy
+argparse
+easyocr
