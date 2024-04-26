@@ -1,5 +1,6 @@
 # Yolov8 ile Plaka Tanıma Sistemi
   Herkese merhabalar, bu uygulamamızda Yolov8 ile nasıl plaka tanıma sistemi geliştirileceğini göstereceğiz. Bu bilgisayarlı görü uygulamasını gerçekleştirebilmek için öncelikle nelere ihtiyacımız var onlara bir bakalım:
+  
   1-Github repomuzu klonlamak.
   ```shell
 
