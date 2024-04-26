@@ -1,8 +1,7 @@
 # Yolov8 ile Plaka Tanıma Sistemi
   Herkese merhabalar, bu uygulamamızda Yolov8 ile nasıl plaka tanıma sistemi geliştirileceğini göstereceğiz. 
   
-  
-  
+  <img src="./results/results.jpg" alt="Yolov8 ile Plaka Tanima Sistemi" width="1280">
   
   
 
@@ -31,7 +30,7 @@ Gerekli kütüphaneleri yüklemek için aşağıdaki kod bloğunu terminalde ça
 Artık son adım olan çalıştırma kısmına geldik. İster kendi modelinizi ve resminizi isterseniz de bizim eklediğimizi kullanabilirsiniz.
 ```shell
 
-  python .\yolov8_predict_img.py --model models/license_plate_detector.pt --source resimler/plate_2.jpg  
+  python .\yolov8_predict_img.py --model models/license_plate_detector.pt --source resimler/plate.jpg  
   
   ```
   
