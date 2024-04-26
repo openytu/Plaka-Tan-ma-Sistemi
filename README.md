@@ -1,7 +1,7 @@
 # Yolov8 ile Plaka Tanıma Sistemi
   Herkese merhabalar, bu uygulamamızda Yolov8 ile nasıl plaka tanıma sistemi geliştirileceğini göstereceğiz. 
   
-  <img src="./results/result.jpg" alt="Yolov8 ile Plaka Tanima Sistemi" width="1280">
+  <img src="./results/result.jpg" alt="Yolov8 ile Plaka Tanima Sistemi" width="1280"  height = 720>
   
   
 
